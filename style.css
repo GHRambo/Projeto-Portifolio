@@ -15,6 +15,13 @@ body {
 }
 
 .apresentacao {
+    margin: 10%;
     display: flex;
     align-items: center;
+    justify-content: space-between;
+}
+
+.apresentacao__conteudo {
+    width: 615px;
+    height: 168px;
 }
