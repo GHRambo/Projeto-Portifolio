@@ -120,6 +120,7 @@ body{
     .cabecalho {
         padding: 10%;
         gap: 0.5em;
+        margin-right: 10px;
     }
 
     .cabecalho__menu {
