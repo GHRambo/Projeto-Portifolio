@@ -125,6 +125,7 @@ body{
 
     .cabecalho__menu {
         justify-content: center;
+        margin-left: 10%;
     }
     
     .apresentacao {
