@@ -99,6 +99,10 @@ body{
     font-family: var(--fonte-secundaria);
 }
 
+.apresentacao__links__icone{
+    height: 1.5em;
+}
+
 .apresentacao__links__link:hover {
     background-color: var(--cor-hover);
 }
@@ -119,14 +123,13 @@ body{
 
 @media (max-width: 1200px) {
     .cabecalho {
-        padding: 10%;
         gap: 0.5em;
-        margin-right: 2%;
     }
 
     .cabecalho__menu {
-        justify-content: center;
-        margin-left: 10%;
+        margin: 1em;
+        justify-content:space-around;
+        gap: 2em
     }
     
     .apresentacao {
