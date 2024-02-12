@@ -121,12 +121,11 @@ body{
     .cabecalho {
         padding: 10%;
         gap: 0.5em;
-        margin-right: 2%;
     }
 
     .cabecalho__menu {
         justify-content: center;
-        margin-left: 10%;
+        gap: 3em;
     }
     
     .apresentacao {
